@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+###Java ###
+*.class
+
+###Package Files
+*.war
+*.ear
+
+### IntellJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+out/
