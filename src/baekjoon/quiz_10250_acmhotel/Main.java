@@ -1,4 +1,4 @@
-package baekjoon.quiz_10250;
+package baekjoon.quiz_10250_acmhotel;
 
 import java.io.*;
 
